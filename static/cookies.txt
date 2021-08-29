@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.facebook.com	TRUE	/	FALSE	1999999999	fr	07s3oDE6U3Z8hZ4e0..BhK5DZ...1.0.BhK5DZ.
+boldgains.com.ng	TRUE	/	FALSE	1999999999	prli_click_1	wagroup
+boldgains.com.ng	TRUE	/	FALSE	1999999999	prli_visitor	612b916d345f1
+

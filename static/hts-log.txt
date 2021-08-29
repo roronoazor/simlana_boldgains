@@ -1,0 +1,67 @@
+HTTrack3.49-2 launched on Sun, 29 Aug 2021 13:50:46 at https://boldgains.com.ng/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -Y https://boldgains.com.ng/ -O "/home/ace/websites/boldgains" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:52:06	Error: 	"Bad Request" (400) at link www.googletagmanager.com/ (from https://boldgains.com.ng/)
+13:52:07	Error: 	"Not Found" (404) at link fonts.googleapis.com/ (from https://boldgains.com.ng/)
+13:52:08	Warning: 	Moved Permanently for s.w.org/
+13:52:08	Warning: 	File has moved from s.w.org/ to https://wordpress.org/
+13:52:08	Error: 	"Bad Request" (400) at link fonts.googleapis.com/css?family&ver=5.8 (from https://boldgains.com.ng/)
+13:54:39	Warning: 	Moved Permanently for https://boldgains.com.ng/?p=41
+13:54:39	Warning: 	File has moved from https://boldgains.com.ng/?p=41 to https://boldgains.com.ng/boldgains-compensation-plan/
+13:54:39	Warning: 	Moved Permanently for https://boldgains.com.ng/?p=61
+13:54:39	Warning: 	File has moved from https://boldgains.com.ng/?p=61 to https://boldgains.com.ng/boldgains-products/
+13:54:39	Warning: 	Moved Permanently for https://boldgains.com.ng/?p=2
+13:54:39	Warning: 	File has moved from https://boldgains.com.ng/?p=2 to https://boldgains.com.ng/boldgains-intro/
+13:54:39	Error: 	"Method Not Allowed" (405) at link https://boldgains.com.ng/xmlrpc.php (from https://boldgains.com.ng/boldgains-intro/)
+13:54:39	Warning: 	Moved Permanently for https://boldgains.com.ng/?p=170
+13:54:39	Warning: 	File has moved from https://boldgains.com.ng/?p=170 to https://boldgains.com.ng/contact-boldgains/
+13:54:39	Warning: 	HTML file (3698 bytes) retransferred due to lack of cache: https://boldgains.com.ng/feed/
+13:54:39	Warning: 	HTML file (730 bytes) retransferred due to lack of cache: https://boldgains.com.ng/comments/feed/
+13:54:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.googletagmanager.com/gtag/js?id=UA-197628074-1
+13:54:43	Warning: 	HTML file (176991 bytes) retransferred due to lack of cache: https://boldgains.com.ng/wp-json/
+13:54:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://boldgains.com.ng/wp-json/wp/v2/pages/22
+13:54:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://boldgains.com.ng/xmlrpc.php?rsd
+13:54:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://boldgains.com.ng/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fboldgains.com.ng%2F
+13:54:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7645420353221335
+13:54:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://boldgains.com.ng/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fboldgains.com.ng%2F&format=xml
+13:55:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://boldgains.com.ng/wp-json/wp/v2/pages/41
+13:55:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://boldgains.com.ng/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fboldgains.com.ng%2Fboldgains-compensation-plan%2F
+13:55:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://boldgains.com.ng/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fboldgains.com.ng%2Fboldgains-compensation-plan%2F&format=xml
+13:55:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://boldgains.com.ng/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fboldgains.com.ng%2Fboldgains-products%2F
+13:55:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://boldgains.com.ng/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fboldgains.com.ng%2Fboldgains-products%2F&format=xml
+13:55:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://boldgains.com.ng/wp-json/wp/v2/pages/61
+13:55:16	Warning: 	HTML file (743 bytes) retransferred due to lack of cache: https://boldgains.com.ng/boldgains-intro/feed/
+13:55:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://boldgains.com.ng/wp-json/wp/v2/pages/2
+13:55:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): widget-v4.tidiochat.com/1_74_0/static/js/render.949ddb143ac406a274a2.js
+13:55:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://boldgains.com.ng/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fboldgains.com.ng%2Fboldgains-intro%2F
+13:55:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://boldgains.com.ng/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fboldgains.com.ng%2Fboldgains-intro%2F&format=xml
+13:55:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://boldgains.com.ng/wp-json/wp/v2/pages/170
+13:55:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://embed.tawk.to/_s/v4/app/6127f5ffb81/js/twk-vendor.js
+13:55:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://embed.tawk.to/_s/v4/app/6127f5ffb81/js/twk-chunk-vendors.js
+13:55:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://embed.tawk.to/_s/v4/app/6127f5ffb81/js/twk-chunk-common.js
+13:55:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://boldgains.com.ng/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fboldgains.com.ng%2Fcontact-boldgains%2F
+13:55:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://boldgains.com.ng/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fboldgains.com.ng%2Fcontact-boldgains%2F&format=xml
+13:55:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://embed.tawk.to/_s/v4/app/6127f5ffb81/js/twk-runtime.js
+13:58:12	Warning: 	HTML file (803 bytes) retransferred due to lack of cache: https://boldgains.com.ng/?p=41
+13:58:14	Warning: 	Moved Permanently for https://boldgains.com.ng/?p=41
+13:58:14	Warning: 	File has moved from https://boldgains.com.ng/?p=41 to https://boldgains.com.ng/boldgains-compensation-plan/
+13:58:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): fonts.googleapis.com/css?family=Playfair+Display:400,400i,700,700i&subset=latin
+13:58:15	Warning: 	HTML file (785 bytes) retransferred due to lack of cache: https://boldgains.com.ng/?p=61
+13:58:17	Warning: 	Moved Permanently for https://boldgains.com.ng/?p=61
+13:58:17	Warning: 	File has moved from https://boldgains.com.ng/?p=61 to https://boldgains.com.ng/boldgains-products/
+13:58:23	Warning: 	HTML file (777 bytes) retransferred due to lack of cache: https://boldgains.com.ng/?p=2
+13:58:25	Warning: 	Moved Permanently for https://boldgains.com.ng/?p=2
+13:58:25	Warning: 	File has moved from https://boldgains.com.ng/?p=2 to https://boldgains.com.ng/boldgains-intro/
+13:58:28	Error: 	"Method Not Allowed" (405) at link https://boldgains.com.ng/xmlrpc.php (from https://boldgains.com.ng/boldgains-intro/)
+13:58:28	Warning: 	HTML file (785 bytes) retransferred due to lack of cache: https://boldgains.com.ng/?p=170
+13:58:32	Warning: 	Moved Permanently for https://boldgains.com.ng/?p=170
+13:58:32	Warning: 	File has moved from https://boldgains.com.ng/?p=170 to https://boldgains.com.ng/contact-boldgains/
+13:58:32	Error: 	"Not Found" (404) at link https://boldgains.com.ng/POST (from https://connect.facebook.net/en_US/fbevents.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 46 seconds : 315 links scanned, 328 files written (7099408 bytes overall) [4389491 bytes received at 9419 bytes/sec], 3981088 bytes transferred using HTTP compression in 73 files, ratio 27%, 3.3 requests per connection
+(6 errors, 50 warnings, 0 messages)
